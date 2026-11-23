@@ -1,0 +1,56 @@
+{
+  "calibration": "fixture-cal-3",
+  "left": {
+    "origin": [
+      0,
+      0
+    ],
+    "shape": [
+      2,
+      4
+    ],
+    "valid": [
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        0,
+        1
+      ]
+    ]
+  },
+  "right": {
+    "origin": [
+      0,
+      0
+    ],
+    "shape": [
+      2,
+      4
+    ],
+    "valid": [
+      [
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  "disparities": [
+    0,
+    1
+  ],
+  "feature_seed": 17
+}

@@ -1,0 +1,9 @@
+{
+  "format": 1,
+  "fixture": "stereo_volume",
+  "synthetic": true,
+  "records": [
+    "primary.json",
+    "revision.json"
+  ]
+}
